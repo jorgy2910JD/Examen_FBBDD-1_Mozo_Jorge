@@ -11,6 +11,7 @@ Este ejercicio consta de una problematica en especifica que es la distribución 
 
 1. Inicie con el proceso identificar la entidad principal, que se relaciona con las entidades debiles y sus respectivos atributos.
 2. Proseguí a desarrollar el diagrama de flujo para un modelo conceptual para relacionar dichas entidades.
-3. del modelo conceptual se pasa a desarrollar el modelo Lógico donde veremos que tipo de relacion tiene cada identidad, ya se 1:1 ,1:M O M:M. 
+   
+4. del modelo conceptual se pasa a desarrollar el modelo Lógico donde veremos que tipo de relacion tiene cada identidad, ya se 1:1 ,1:M O M:M. 
 
 
